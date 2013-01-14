@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[scaldstack's Blog]]></title>
+  <link href="http://scaldstack.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://scaldstack.github.com/blog/"/>
+  <updated>2013-01-14T15:28:12+08:00</updated>
+  <id>http://scaldstack.github.com/blog/</id>
+  <author>
+    <name><![CDATA[scaldstack]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://scaldstack.github.com/blog/blog/2013/01/14/hello-world/"/>
+    <updated>2013-01-14T08:46:00+08:00</updated>
+    <id>http://scaldstack.github.com/blog/blog/2013/01/14/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
